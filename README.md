@@ -37,4 +37,4 @@ The "Bureau Des Stagiaires" project utilized a wide range of web technologies to
 
 ## License
 
-This project is licensed under the Apache 2.0 License.
+This project is licensed under the Apache License 2.0.
